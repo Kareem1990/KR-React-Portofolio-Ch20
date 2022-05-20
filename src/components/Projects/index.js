@@ -8,10 +8,11 @@ import image4 from "/Users/kareemmagdy/Desktop/GW-Challenges/KR-React-Portofolio
 function Projects(props) {
     return (
         <section className="container" >
+        <h1>Projects</h1>
 
                 <div className="row"  >
 
-                    <div className=" col" href="https://lit-thicket-52493.herokuapp.com/">
+                    <div className="pro col" href="https://lit-thicket-52493.herokuapp.com/">
                         <h1 className="titleStyling">Woof Woof</h1>
                         <img src={image4} alt="Woof Woof" className="projectImg" />
                         <p className="descStyling" >Woof Woof foundation is a local pet rescue and adoption agency.
@@ -21,7 +22,7 @@ function Projects(props) {
                         <a className="urlStyling" href="https://lit-thicket-52493.herokuapp.com/">Github</a>
 
                     </div>
-                    <div className="col" href="https://maryjezek.github.io/travel-optimizer/">
+                    <div className="pro col" href="https://maryjezek.github.io/travel-optimizer/">
                         <h1 className="titleStyling">Travel Optimizer</h1>
                         <img src={image2} alt="memes" className="projectImg" />
                         <p className="descStyling" >An app allows travelers to quickly plug their destination into the search to pull</p>
@@ -30,7 +31,7 @@ function Projects(props) {
                         <a className="urlStyling" href="https://github.com/Kareem1990/-travel-optimizer-KMS">Github</a>
                     </div>
 
-                    <div className=" col" href="https://maryjezek.github.io/travel-optimizer/">
+                    <div className="pro col" href="https://maryjezek.github.io/travel-optimizer/">
                         <h1 className="titleStyling">Meme Masters</h1>
                         <img src={image1} alt="travel" className="projectImg" />
                         <p className="descStyling" >An app to send strictly memes to friends. Sign up or log in and start sharing the laughs.</p>
@@ -40,7 +41,7 @@ function Projects(props) {
 
                     </div>
 
-                    <div className=" col" href="https://kareem1990.github.io/Runner-mobile-version/">
+                    <div className="pro col" href="https://kareem1990.github.io/Runner-mobile-version/">
                         <h1 className="titleStyling">Run Buddy</h1>
                         <img src={image3} alt="Password generator" className="projectImg" />
                         <p className="descStyling" >A website to connect between clients and professional coaches.</p>
