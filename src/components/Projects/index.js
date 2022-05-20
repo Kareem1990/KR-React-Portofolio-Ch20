@@ -7,28 +7,48 @@ import image4 from "/Users/kareemmagdy/Desktop/GW-Challenges/KR-React-Portofolio
 
 function Projects(props) {
     return (
-        <section style={{ display: "flex" }}>
-            <div class="card">
+        <section className="container" >
 
-                <a href="https://lit-thicket-52493.herokuapp.com/">
-                    <h1>Woof Woof</h1>
-                    <img src={image4} alt="Woof Woof" class="projectImg" />
-                </a>
-                <a href="https://github.com/Kareem1990/meme-masters">
-                    <h1>Memes Masters</h1>
-                    <img src={image1} alt="memes" class="projectImg" />
-                </a>
+                <div className="row"  >
 
-                <a href="https://maryjezek.github.io/travel-optimizer/">
-                    <h1>Travel Optimizer</h1>
-                    <img src={image2} alt="travel" class="projectImg" />
-                </a>
+                    <div className=" col" href="https://lit-thicket-52493.herokuapp.com/">
+                        <h1 className="titleStyling">Woof Woof</h1>
+                        <img src={image4} alt="Woof Woof" className="projectImg" />
+                        <p className="descStyling" >Woof Woof foundation is a local pet rescue and adoption agency.
+                        </p>
+                        <a className="gitHubStyling" href="https://lit-thicket-52493.herokuapp.com/">Deployed url</a>
+                        -
+                        <a className="urlStyling" href="https://lit-thicket-52493.herokuapp.com/">Github</a>
 
-                <a href="https://kareem1990.github.io/Runner-mobile-version/">
-                    <h1>Run Buddy</h1>
-                    <img src={image3} alt="Password generator" class="projectImg" />
-                </a>
-            </div>
+                    </div>
+                    <div className="col" href="https://maryjezek.github.io/travel-optimizer/">
+                        <h1 className="titleStyling">Travel Optimizer</h1>
+                        <img src={image2} alt="memes" className="projectImg" />
+                        <p className="descStyling" >An app allows travelers to quickly plug their destination into the search to pull</p>
+                        <a className="gitHubStyling" href="https://maryjezek.github.io/travel-optimizer/">Deployed url</a>
+                        -
+                        <a className="urlStyling" href="https://github.com/Kareem1990/-travel-optimizer-KMS">Github</a>
+                    </div>
+
+                    <div className=" col" href="https://maryjezek.github.io/travel-optimizer/">
+                        <h1 className="titleStyling">Meme Masters</h1>
+                        <img src={image1} alt="travel" className="projectImg" />
+                        <p className="descStyling" >An app to send strictly memes to friends. Sign up or log in and start sharing the laughs.</p>
+                        <a className="gitHubStyling" href="https://maryjezek.github.io/travel-optimizer/">Deployed url</a>
+                        -
+                        <a className="urlStyling" href="https://github.com/Kareem1990/meme-masters">Github</a>
+
+                    </div>
+
+                    <div className=" col" href="https://kareem1990.github.io/Runner-mobile-version/">
+                        <h1 className="titleStyling">Run Buddy</h1>
+                        <img src={image3} alt="Password generator" className="projectImg" />
+                        <p className="descStyling" >A website to connect between clients and professional coaches.</p>
+                        <a className="gitHubStyling" href="https://kareem1990.github.io/Runner-mobile-version/">Deployed url</a>
+                        -
+                        <a className="urlStyling" href="https://github.com/Kareem1990/Runner-mobile-version">Github</a>
+                    </div>
+                </div>
         </section>
     );
 }
