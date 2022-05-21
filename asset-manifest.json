@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/KR-React-Portofolio-Ch20/static/css/main.8832ea63.css",
-    "main.js": "/KR-React-Portofolio-Ch20/static/js/main.f93038bc.js",
+    "main.css": "/KR-React-Portofolio-Ch20/static/css/main.1009cba4.css",
+    "main.js": "/KR-React-Portofolio-Ch20/static/js/main.b285fccd.js",
     "static/media/kareem.png": "/KR-React-Portofolio-Ch20/static/media/kareem.cb402d44d99c02db264b.png",
     "static/media/project-3.png": "/KR-React-Portofolio-Ch20/static/media/project-3.c21d50970b25eff5e8e5.png",
     "static/media/project-1.png": "/KR-React-Portofolio-Ch20/static/media/project-1.108d8ec1d948c3d4f92b.png",
     "static/media/project-4.png": "/KR-React-Portofolio-Ch20/static/media/project-4.266fe68c10557cfebee6.png",
     "static/media/project-2.png": "/KR-React-Portofolio-Ch20/static/media/project-2.ef8e31696b22ef46a0a7.png",
-    "static/media/Kareem Rizk - Resume.pdf": "/KR-React-Portofolio-Ch20/static/media/Kareem Rizk - Resume.bb350145ae2111cd94c0.pdf",
+    "static/media/Kareem Rizk - Resume.pdf": "/KR-React-Portofolio-Ch20/static/media/Kareem Rizk - Resume.191bba85dc85f28d3bc8.pdf",
     "index.html": "/KR-React-Portofolio-Ch20/index.html",
-    "main.8832ea63.css.map": "/KR-React-Portofolio-Ch20/static/css/main.8832ea63.css.map",
-    "main.f93038bc.js.map": "/KR-React-Portofolio-Ch20/static/js/main.f93038bc.js.map"
+    "main.1009cba4.css.map": "/KR-React-Portofolio-Ch20/static/css/main.1009cba4.css.map",
+    "main.b285fccd.js.map": "/KR-React-Portofolio-Ch20/static/js/main.b285fccd.js.map"
   },
   "entrypoints": [
-    "static/css/main.8832ea63.css",
-    "static/js/main.f93038bc.js"
+    "static/css/main.1009cba4.css",
+    "static/js/main.b285fccd.js"
   ]
 }
