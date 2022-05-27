@@ -9,10 +9,7 @@ function About() {
             <img src={coverImage} className="my-2" style={{ width: "100%" }} alt="cover" />
             <div className="my-2">
             <p>
-                A novice web developer, designer, and journalist for 8 years with a special passion for coding
-                and IT. Seeking a job as a front-end developer with knowledge and practical skills in HTML,
-                CSS, JavaScript, Git, and Github. Currently pursuing my passion for expanding my capabilities
-                at George Washington University’s web development bootcamp.
+            Full stack developer with a passion for programming and information technology; currently open to work. With a web development certification from Washington University and nearly 10 years experience as a journalist and translator. Open to both front-end and back-end positions. What's more important is finding the right team and building something great.
             </p>
             </div>
         </section>
