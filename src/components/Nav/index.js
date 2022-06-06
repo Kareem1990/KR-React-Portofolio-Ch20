@@ -1,5 +1,5 @@
 import React from 'react';
-import resume from '/Users/kareemmagdy/Desktop/GW-Challenges/KR-React-Portofolio-Ch20/kr-portofolio/src/assets/resume/Kareem Rizk - Resume.pdf';
+import resume from '/Users/kareemmagdy/Desktop/GW-Challenges/KR-React-Portofolio-Ch20/kr-portofolio/src/assets/resume/Kareem Rizk - Resume.docx.pdf';
 
 
 function Nav(props) {
